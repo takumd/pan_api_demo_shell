@@ -1,1 +1,1 @@
-# This is sample
+# sample shell script to demostrate API feature
